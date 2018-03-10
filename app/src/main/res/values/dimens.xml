@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="TeamName">40sp</dimen>
+    <dimen name="Score">60sp</dimen>
+    <dimen name="GoalButtons">25sp</dimen>
+    <dimen name="OtherButtons">15sp</dimen>
+    <dimen name="OtherScores">30sp</dimen>
+</resources>

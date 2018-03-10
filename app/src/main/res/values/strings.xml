@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Project Soccer Match Counter</string>
+    <string name="team_a">Team A</string>
+    <string name="score_a">0</string>
+    <string name="goal_a">goal</string>
+    <string name="team_b">Team B</string>
+    <string name="score_b">0</string>
+    <string name="goal_b">goal</string>
+    <string name="penalty_a">penalty</string>
+    <string name="penalty_score_a">0</string>
+    <string name="offside_a">offside</string>
+    <string name="offside_score_a">0</string>
+    <string name="fault_a">fault</string>
+    <string name="fault_score_a">0</string>
+    <string name="yellow_a">yellow</string>
+    <string name="yellow_score_a">0</string>
+    <string name="red_a">red</string>
+    <string name="red_score_a">0</string>
+    <string name="penalty_score_b">0</string>
+    <string name="penalty_b">penalty</string>
+    <string name="offside_score_b">0</string>
+    <string name="offside_b">offside</string>
+    <string name="fault_score_b">0</string>
+    <string name="fault_b">fault</string>
+    <string name="yellow_score_b">0</string>
+    <string name="yellow_b">yellow</string>
+    <string name="red_score_b">0</string>
+    <string name="red_b">red</string>
+    <string name="reset">Reset</string>
+</resources>
+
